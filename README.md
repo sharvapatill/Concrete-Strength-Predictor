@@ -1,6 +1,5 @@
 # Concrete Compressive Strength Predictor
 
-**Author:** Sharva Nitin Patil
 
 A data model that predicts the compressive strength of a concrete mixture from its raw
 material composition, built for ENGR 1330 (Computational Thinking and Data Science).
